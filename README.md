@@ -48,7 +48,12 @@ Borrow out = A'Bin + A'B + BBin
 
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
-5.For different input combinations generate the timing diagram.
+5.For differtent input combinations generate the timing diagram.
+#Full Adder Truth Tabel
+
+
+<img width="881" height="627" alt="Screenshot 2025-12-17 210729" src="https://github.com/user-attachments/assets/f8e173f8-6b54-482b-bc3d-dd07d0b94b0c" />
+
 
 **Program:**
 #FULL ADDER
@@ -63,6 +68,11 @@ assign Cout = (A & B) | (B & Cin) | (A & Cin);
 
 endmodule
 ```
+#Full Subtracter Truth Tabel
+
+
+<img width="900" height="618" alt="Screenshot 2025-12-17 210952" src="https://github.com/user-attachments/assets/5ac8df42-2d7a-4c9c-a763-e2bec28de54f" />
+
 
 #FULL SUBTRACTOR
 ```
